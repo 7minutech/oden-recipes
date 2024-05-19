@@ -2,5 +2,11 @@
     font-family: Helvetica, Arial, Verdana;
 }
 body{
-    background-color: rgb(146, 209, 193);
+    background-color: #c1d6d1;
+}
+a{
+    text-decoration: none;
+    color: #4c56b4;
+    font-weight: bold;
+    font-size: 24px;
 }
