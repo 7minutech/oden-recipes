@@ -11,12 +11,14 @@ h1{
     
 }
 li{
-    display: inline-block;
-    padding: 0 40px;
-    margin: 0 auto;
+    width: 300px;
+    padding: 20px 40px;
+    margin: 20px auto;
+    background-color: #d6c1d1;
 
 }
 a{
+    
     text-decoration: none;
     color: #4c56b4;
     font-weight: bold;
