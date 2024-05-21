@@ -38,8 +38,12 @@ img{
     display: block;
     margin: 0 auto;
 }
-nav{
-    display: inline-block;
+
+.link{
+    margin-top: -32px;
+    width: 200px;
+    padding: 10px;
+    margin-left: -7px;
+    position: fixed;
     background-color: #d6c1d1;
-    padding: 10px 20px;
 }
