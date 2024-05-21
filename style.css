@@ -6,13 +6,25 @@ body{
 }
 h1{
     font-size: 48px;
+    text-align: center;
     
+}
+li{
+    display: inline-block;
+    padding: 0 40px;
+    margin: 0 auto;
+
 }
 a{
     text-decoration: none;
     color: #4c56b4;
     font-weight: bold;
     font-size: 24px;
+}
+a:hover{
+    background-color: #4c56b4;
+    color: #ffffff;
+    
 }
 h2{
     color: #ce861b;
