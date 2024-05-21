@@ -1,5 +1,6 @@
 *{
     font-family: Helvetica, Arial, Verdana;
+    text-align: center;
 }
 body{
     background-color: #c1d6d1;
@@ -27,6 +28,11 @@ a:hover{
     
 }
 h2{
+    text-align: center;
     color: #ce861b;
     font-family: 'Courier New', Courier, monospace;
+}
+img{
+    display: block;
+    margin: 0 auto;
 }
